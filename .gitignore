@@ -1,0 +1,4 @@
+# Project exclude paths
+/01-base/main.js
+/02-array-object/main.js
+/04-objects-finish/app.js
